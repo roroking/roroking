@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning cs50 at harvardx 
 - 💞️ I’m looking to collaborate on prijects that related to coding on cs50ide
 - 📫 How to reach me .you can emial me on
-rouhullaehsai@outlook.com
+rouhullaehsani@outlook.com
 
 
 <!---
